@@ -13,4 +13,5 @@ The purpose of this analysis is to determine which aircraft are the lowest risk 
 The dataset is from the National Transportation Safety Board in Kaggle that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 
 ### Description of data
-The data contains details of various civil aviation aircrafts accidents that occurred between 1962 to 2023
+The data contains details of various civil aviation aircrafts accidents that occurred between 1962 to 2023.
+The data consists of 88,889 rows representing different accidents that occurred and 31 columns which represent different variables including the make of the aircraft,model of the aircraft,number of injuries,number of fatal injuries,date of accident.
