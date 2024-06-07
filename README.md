@@ -53,3 +53,13 @@ plt.xticks(rotation=90)
 ##### Labeling the title
 plt.title('Injury Rate per aircraft make')
 plt.show()
+
+## CONCLUSIONS
+From the analysis above;
+1. Out of the 7588 different aircraft makes,5550 of them are considered low risk on accident rate and injury rate.
+2. There were alot of null values which were replaced by 0
+3. Aircraft make 'Boeing' had the highest serious injuries
+
+## RECOMMENDATIONS
+From the analysis;
+The business has a big selection of aircrafts to choose from as more than half of the aircrafts in the dataset are considered low risk.
